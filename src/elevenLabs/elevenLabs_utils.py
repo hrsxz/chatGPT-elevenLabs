@@ -1,7 +1,11 @@
 import os
 import base64
+import logging
 
 from elevenlabs import generate, play
+
+
+logging.basicConfig(level=logging.DEBUG, filename='elevenlabs.log')
 
 
 class client_elevenlabs():
@@ -35,9 +39,16 @@ class client_elevenlabs():
 
         play(audio)
 
+    def run(self, response_text: str):
+        try:
+            logging.info("Elevenlabs process started")
+            self.play_audio(response_text)
+        except Exception as e:
+            logging.exception(f"Error in the child process: {e}")
 
-if __name__ == "__main__":
-    client = client_elevenlabs()
-    client.play_audio("Born and raised in the charming south,\n"
-                      "I can add a touch of sweet southern hospitality\n"
-                      "to your audiobooks and podcasts")
+
+# if __name__ == "__main__":
+#     client = client_elevenlabs()
+#     client.play_audio("Born and raised in the charming south,\n"
+#                       "I can add a touch of sweet southern hospitality\n"
+#                       "to your audiobooks and podcasts")

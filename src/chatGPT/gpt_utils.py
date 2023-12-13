@@ -2,11 +2,15 @@ import os
 import base64
 import errno
 import time
+import logging
 
 from openai import OpenAI
 
 
-class client_chatGPT:
+logging.basicConfig(level=logging.DEBUG, filename='gpt_utils.log')
+
+
+class client_chatGPT():
     """This class summarize the utility methods for chatGPT
     Raises:
         Exception: _description_
@@ -16,6 +20,7 @@ class client_chatGPT:
     """
 
     def __init__(self):
+        super(client_chatGPT, self).__init__()
         api_key = os.getenv('OPENAI_API_KEY')
         if api_key is None:
             raise Exception("Missing OPENAI_API_KEY environment variable")
