@@ -2,8 +2,13 @@ import os
 import cv2  # pip install opencv-python
 import base64
 import numpy as np
+import logging
+import time
 
 from PIL import Image  # pip install Pillow
+
+
+logging.basicConfig(level=logging.DEBUG, filename='./logs/camera.log')
 
 
 class Capture_Pics():
@@ -25,13 +30,17 @@ class Capture_Pics():
             raise IOError("Cannot open webcam")
 
     def capture_one_pic(self):
+        logging.info("📸 Smile for the camera! Capturing 2...")
+        time.sleep(1)
+        logging.info("📸 Smile for the camera! Capturing 1...")
+        time.sleep(0.5)
         ret, frame = self.cap.read()
         if ret:
             # Convert the frame to a PIL image
             pil_img = Image.fromarray(cv2.cvtColor(frame, cv2.COLOR_BGR2RGB))
 
             # Resize the image
-            max_size = 800
+            max_size = 600
             ratio = max_size / max(pil_img.size)
             new_size = tuple([int(x*ratio) for x in pil_img.size])
             resized_img = pil_img.resize(new_size, Image.LANCZOS)
@@ -40,12 +49,15 @@ class Capture_Pics():
             frame = cv2.cvtColor(np.array(resized_img), cv2.COLOR_RGB2BGR)
 
             # Save the frame as an image file
-            print("📸 Smile for the camera! Capturing and saving the image.")
             path = f"{self.folder}/frame.jpg"
             cv2.imwrite(path, frame)
+
+            # Release the camera and close all windows
+            self.cap.release()
+            cv2.destroyAllWindows()
         else:
             frame = None
-            print("Failed to capture image")
+            logging.error("Failed to capture image")
 
         return frame
 

@@ -1,11 +1,11 @@
 import os
-import base64
+# import base64
 import logging
 
 from elevenlabs import generate, play
 
 
-logging.basicConfig(level=logging.DEBUG, filename='elevenlabs.log')
+logging.basicConfig(level=logging.INFO, filename='./logs/elevenlabs.log')
 
 
 class client_elevenlabs():
@@ -27,10 +27,10 @@ class client_elevenlabs():
         self.url = "https://api.elevenlabs.io/v1/text-to-speech/" + voice_id
 
     def play_audio(self, text):
-        audio = generate(text, voice="DPsqCHWEBVTyO9962K8u")
+        audio = generate(text, voice="DPsqCHWEBVTyO9962K8u", model="eleven_multilingual_v2")
 
-        unique_id = base64.urlsafe_b64encode(os.urandom(30)).decode("utf-8").rstrip("=")
-        dir_path = os.path.join("artifacts/audio", unique_id)
+        # unique_id = base64.urlsafe_b64encode(os.urandom(30)).decode("utf-8").rstrip("=")
+        dir_path = os.path.join("artifacts/audio")  # , unique_id)
         os.makedirs(dir_path, exist_ok=True)
         file_path = os.path.join(dir_path, "audio.wav")
 

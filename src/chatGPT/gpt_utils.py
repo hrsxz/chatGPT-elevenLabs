@@ -7,7 +7,7 @@ import logging
 from openai import OpenAI
 
 
-logging.basicConfig(level=logging.DEBUG, filename='gpt_utils.log')
+logging.basicConfig(level=logging.INFO, filename='./logs/gpt_utils.log')
 
 
 class client_chatGPT():
