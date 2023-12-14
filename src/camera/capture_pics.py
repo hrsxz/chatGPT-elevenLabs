@@ -1,5 +1,6 @@
 import os
 import cv2  # pip install opencv-python
+import base64
 import numpy as np
 
 from PIL import Image  # pip install Pillow
@@ -43,4 +44,17 @@ class Capture_Pics():
             path = f"{self.folder}/frame.jpg"
             cv2.imwrite(path, frame)
         else:
+            frame = None
             print("Failed to capture image")
+
+        return frame
+
+    def frame_to_base64(self, frame):
+        # convert the frame to JPEG format
+        retval, buffer = cv2.imencode('.jpg', frame)
+        if retval:
+            # convert the image to bytes and base64 encode it
+            jpg_as_text = base64.b64encode(buffer).decode()
+            return jpg_as_text
+        else:
+            raise ValueError("Could not convert the frame to JPEG")

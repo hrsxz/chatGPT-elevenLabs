@@ -43,7 +43,6 @@ for this purpose we need to create environment variables in windows for the api 
 ### Add key in environment variables
 
 ![Alt text](miscellaneous/image/image.png)
-![Alt text](miscellaneous/image/image-1.png)
 
 Add path in enviroment variables
 
