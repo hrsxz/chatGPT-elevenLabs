@@ -3,9 +3,14 @@ import os
 import logging
 
 from elevenlabs import generate, play
+from pathlib import Path
 
 
-logging.basicConfig(level=logging.INFO, filename='./logs/elevenlabs.log')
+# Calculate the project root path directly
+project_root_path = Path(__file__).resolve().parent.parent.parent
+filename = project_root_path / "logs/elevenlabs.log"
+
+logging.basicConfig(level=logging.DEBUG, filename=filename)
 
 
 class client_elevenlabs():
@@ -30,7 +35,7 @@ class client_elevenlabs():
         audio = generate(text, voice="DPsqCHWEBVTyO9962K8u", model="eleven_multilingual_v2")
 
         # unique_id = base64.urlsafe_b64encode(os.urandom(30)).decode("utf-8").rstrip("=")
-        dir_path = os.path.join("artifacts/audio")  # , unique_id)
+        dir_path = project_root_path / "artifacts/audio"  # , unique_id)
         os.makedirs(dir_path, exist_ok=True)
         file_path = os.path.join(dir_path, "audio.wav")
 

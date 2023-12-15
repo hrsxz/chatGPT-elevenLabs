@@ -6,6 +6,11 @@ from multiprocessing import Process, Queue, Value
 from src.chatGPT import gpt_utils
 from src.camera import capture_pics
 from src.elevenLabs import elevenLabs_utils
+from pathlib import Path
+
+
+# Calculate the project root path directly
+project_root_path = Path(__file__).resolve().parent
 
 
 def setup_logging():
@@ -80,6 +85,9 @@ class Analytic_Process(Process):
                             self.base64_image, user_script
                         )
                         print(response_text)
+                        path = project_root_path / "artifacts/response_text/response_text.txt"
+                        with open(path, 'w', encoding='utf-8') as file:
+                            file.write(response_text)
                         self.response_queue.put(response_text)
             except Exception as e:
                 logging.exception(f"Error in the child process: {e}")

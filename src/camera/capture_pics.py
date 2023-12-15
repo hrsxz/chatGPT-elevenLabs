@@ -6,17 +6,21 @@ import logging
 import time
 
 from PIL import Image  # pip install Pillow
+from pathlib import Path
 
 
-logging.basicConfig(level=logging.DEBUG, filename='./logs/camera.log')
+# Calculate the project root path directly
+project_root_path = Path(__file__).resolve().parent.parent.parent
+filename = project_root_path / "logs/camera.log"
+logging.basicConfig(level=logging.DEBUG, filename=filename)
 
 
 class Capture_Pics():
     """This class use for capturing pics from webcam
     """
-    def __init__(self, folder="artifacts/frames"):
+    def __init__(self, folder=project_root_path / "artifacts/frames"):
         # Folder
-        self.folder = "artifacts/frames"
+        self.folder = project_root_path / "artifacts/frames"
 
         # Create the frames folder if it doesn't exist
         frames_dir = os.path.join(os.getcwd(), folder)
@@ -58,6 +62,8 @@ class Capture_Pics():
         else:
             frame = None
             logging.error("Failed to capture image")
+
+        logging.info("📸 Picture saved.")
 
         return frame
 

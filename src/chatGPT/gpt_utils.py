@@ -5,9 +5,13 @@ import time
 import logging
 
 from openai import OpenAI
+from pathlib import Path
 
 
-logging.basicConfig(level=logging.INFO, filename='./logs/gpt_utils.log')
+# Calculate the project root path directly
+project_root_path = Path(__file__).resolve().parent.parent.parent
+filename = project_root_path / "logs/gpt_utils.log"
+logging.basicConfig(level=logging.DEBUG, filename=filename)
 
 
 class client_chatGPT():
