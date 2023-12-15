@@ -1,7 +1,9 @@
 import streamlit as st
 import os
+import sys
 import time
 import logging
+import logging_config
 
 from PIL import Image
 from pathlib import Path
@@ -9,8 +11,12 @@ from pathlib import Path
 
 # Calculate the project root path directly
 project_root_path = Path(__file__).resolve().parent.parent
+# Add the project root to sys.path
+sys.path.append(str(project_root_path))
+# Configure logging
 filename = project_root_path / "logs/ui.log"
-logging.basicConfig(level=logging.DEBUG, filename=filename)
+logging_config.config_logging(filename)
+logging.info("------------------------Start logging for ui.py -------------------------------")
 
 # Set page title and favicon.
 st.set_page_config(page_title="chatGPT + ElevenLabs", page_icon="💥")
@@ -37,6 +43,7 @@ with placeholder1:
     st.markdown('## Current Image')
     # get picture from artifacts/frames/frame.jpg
     if os.path.exists(image_path):
+        logging.info("Loading image from artifacts/frames/frame.jpg.")
         # if the image exists, show the image
         current_image = Image.open(image_path)
     else:
@@ -64,17 +71,25 @@ with open(analysis_results_path, 'r', encoding='utf-8') as file:
     analysis_result = file.read()
 st.write(analysis_result)
 
-# Check for file update periodically
-while True:
-    # Be cautious with the sleep duration; too short may cause performance issues
-    time.sleep(1)
+
+def check_for_updates():
     try:
         if os.path.exists(analysis_results_path):
             modification_time = os.path.getmtime(analysis_results_path)
             if modification_time != st.session_state['last_modified_time']:
+                logging.info("Loading new analysis results and image.")
                 st.session_state['last_modified_time'] = modification_time
                 st.session_state['last_image'] = current_image
-                logging.info("Replace last image with current image.")
                 st.experimental_rerun()
     except Exception as e:
         st.error(f"Error checking file update: {e}")
+
+
+if st.button('check updates'):
+    check_for_updates()
+
+# # Check for file update periodically
+# while True:
+#     # Be cautious with the sleep duration; too short may cause performance issues
+#     time.sleep(1)
+#     check_for_updates()

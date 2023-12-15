@@ -51,7 +51,7 @@ class client_chatGPT():
                         "type": "image_url",
                         "image_url": f"data:image/jpeg;base64,{base64_image}",
                     },
-                    {"type": "text", "text": "用英文和中文双语来回答这个问题"}
+                    {"type": "text", "text": "请用中文回答问题。"}
                 ],
             },
         ]
