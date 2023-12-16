@@ -33,11 +33,13 @@ class Capture_Pics():
         if not self.cap.isOpened():
             raise IOError("Cannot open webcam")
 
-    def capture_one_pic(self):
-        logging.info("📸 Smile for the camera! Capturing 2...")
-        time.sleep(1)
-        logging.info("📸 Smile for the camera! Capturing 1...")
-        time.sleep(0.5)
+    def capture_one_pic(self, frame_name: str):
+        if frame_name != "live":
+            # Countdown to capture the image.
+            logging.info("📸 Smile for the camera! Capturing 2...")
+            time.sleep(1)
+            logging.info("📸 Smile for the camera! Capturing 1...")
+            time.sleep(0.5)
         ret, frame = self.cap.read()
         if ret:
             # Convert the frame to a PIL image
@@ -53,7 +55,7 @@ class Capture_Pics():
             frame = cv2.cvtColor(np.array(resized_img), cv2.COLOR_RGB2BGR)
 
             # Save the frame as an image file
-            path = f"{self.folder}/frame.jpg"
+            path = f"{self.folder}/{frame_name}.jpg"
             cv2.imwrite(path, frame)
 
             # Release the camera and close all windows

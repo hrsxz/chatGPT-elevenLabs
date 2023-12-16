@@ -46,13 +46,18 @@ class Capture_Pics(Process):
             if self.event_done.value:
                 capture_image = capture_pics.Capture_Pics()
                 # capture one picture
-                frame = capture_image.capture_one_pic()
+                frame = capture_image.capture_one_pic("frame")
                 # put image into queue only if queue is empty
                 # we need to wait chatGPT get the image and process it.
                 if frame is not None:
                     base64_image = capture_image.frame_to_base64(frame)
                     self.queue.put(base64_image)
                     self.event_done.value = False
+            else:
+                time.sleep(0.1)
+                capture_image = capture_pics.Capture_Pics()
+                # capture one picture
+                frame = capture_image.capture_one_pic("live")
 
 
 class Analytic_Process(Process):
@@ -80,7 +85,7 @@ class Analytic_Process(Process):
                         self.base64_image = self.image_queue.get()
                         if True:
                             user_script = [{"role": "user",
-                                            "content": "Limit reply to 50 words."}]
+                                            "content": "Limit reply to 100 words."}]
                         response_text = self.client.analyze_image_with_GPT(
                             self.base64_image, user_script
                         )

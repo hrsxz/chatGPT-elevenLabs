@@ -1325,3 +1325,1560 @@ INFO:root:Loading new analysis results and image.
 2023-12-16 00:38:33,756 - INFO - Loading image from artifacts/frames/frame.jpg.
 2023-12-16 00:38:33,756 - INFO - Loading image from artifacts/frames/frame.jpg.
 2023-12-16 00:38:33,756 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 00:42:13,145 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 00:42:13,426 - INFO - Default gray image created.
+2023-12-16 00:42:13,431 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 00:57:52,856 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 00:57:52,998 - INFO - Default gray image created.
+2023-12-16 00:57:53,001 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 00:57:54,024 - INFO - Loading new analysis results and image.
+2023-12-16 00:57:54,051 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 00:57:54,051 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 00:57:54,053 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 00:57:54,053 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 00:58:00,111 - INFO - Loading new analysis results and image.
+2023-12-16 00:58:00,111 - INFO - Loading new analysis results and image.
+2023-12-16 00:58:00,127 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 00:58:00,127 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 00:58:00,127 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 00:58:00,143 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 00:58:00,143 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 00:58:00,143 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 00:59:36,011 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 00:59:36,156 - INFO - Default gray image created.
+2023-12-16 00:59:36,162 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 00:59:37,190 - INFO - Loading new analysis results and image.
+2023-12-16 00:59:37,205 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 00:59:37,205 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 00:59:37,221 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 00:59:37,221 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 00:59:44,304 - INFO - Loading new analysis results and image.
+2023-12-16 00:59:44,304 - INFO - Loading new analysis results and image.
+2023-12-16 00:59:44,325 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 00:59:44,325 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 00:59:44,325 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 00:59:44,334 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 00:59:44,334 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 00:59:44,334 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:16,657 - INFO - Loading new analysis results and image.
+2023-12-16 01:00:16,657 - INFO - Loading new analysis results and image.
+2023-12-16 01:00:16,657 - INFO - Loading new analysis results and image.
+2023-12-16 01:00:16,673 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:16,673 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:16,673 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:16,673 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:16,673 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:16,673 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:16,673 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:16,673 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:27,568 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:27,568 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:27,568 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:27,568 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:27,568 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:27,568 - INFO - Default gray image created.
+2023-12-16 01:00:27,568 - INFO - Default gray image created.
+2023-12-16 01:00:27,568 - INFO - Default gray image created.
+2023-12-16 01:00:27,568 - INFO - Default gray image created.
+2023-12-16 01:00:27,568 - INFO - Default gray image created.
+2023-12-16 01:00:27,574 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:27,574 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:27,574 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:27,574 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:27,574 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:28,582 - INFO - Loading new analysis results and image.
+2023-12-16 01:00:28,582 - INFO - Loading new analysis results and image.
+2023-12-16 01:00:28,582 - INFO - Loading new analysis results and image.
+2023-12-16 01:00:28,582 - INFO - Loading new analysis results and image.
+2023-12-16 01:00:28,582 - INFO - Loading new analysis results and image.
+2023-12-16 01:00:28,598 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:28,598 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:28,598 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:28,598 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:28,598 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:28,598 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:00:28,615 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:28,615 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:28,615 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:28,615 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:28,615 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:00:28,615 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,135 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:16,135 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:16,135 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:16,135 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:16,135 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:16,135 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:16,165 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,165 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,165 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,165 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,165 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,165 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,165 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,169 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,169 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,169 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,169 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,169 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,169 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,169 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,297 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:16,297 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:16,297 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:16,297 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:16,297 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:16,297 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:16,297 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:16,318 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,318 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,318 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,318 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,318 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,318 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,318 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,318 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:16,318 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,318 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,318 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,318 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,318 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,318 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,318 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:16,318 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,542 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,542 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,542 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,542 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,542 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,542 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,542 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,542 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,574 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,574 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,574 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,574 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,574 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,574 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,574 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,574 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,574 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,579 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,579 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,579 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,579 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,579 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,579 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,579 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,579 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,579 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,709 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,709 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,709 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,709 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,709 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,709 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,709 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,709 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,709 - INFO - Loading new analysis results and image.
+2023-12-16 01:01:46,725 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,725 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,725 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,725 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,725 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,725 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,725 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,725 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,725 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,725 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:01:46,741 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,741 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,741 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,741 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,741 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,741 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,741 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,741 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,741 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:01:46,741 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:32:32,277 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:32:32,448 - INFO - Default gray image created.
+2023-12-16 01:32:32,452 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:32:33,476 - INFO - Loading new analysis results and image.
+2023-12-16 01:32:33,512 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:32:33,512 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:32:33,514 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:32:33,514 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:06,574 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:06,718 - INFO - Default gray image created.
+2023-12-16 01:33:06,722 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:07,059 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:07,059 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:07,063 - INFO - Default gray image created.
+2023-12-16 01:33:07,063 - INFO - Default gray image created.
+2023-12-16 01:33:07,067 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:07,067 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:07,741 - INFO - Loading new analysis results and image.
+2023-12-16 01:33:07,741 - INFO - Loading new analysis results and image.
+2023-12-16 01:33:07,779 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:07,779 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:07,779 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:07,781 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:07,781 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:07,781 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:08,081 - INFO - Loading new analysis results and image.
+2023-12-16 01:33:08,081 - INFO - Loading new analysis results and image.
+2023-12-16 01:33:08,081 - INFO - Loading new analysis results and image.
+2023-12-16 01:33:08,117 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:08,117 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:08,117 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:08,117 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:08,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:08,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:08,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:08,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:36,108 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:36,108 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:36,108 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:36,108 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:36,108 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:36,113 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:36,113 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:36,113 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:36,113 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:36,113 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:37,415 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:37,415 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:37,415 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:37,415 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:37,415 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:37,415 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:37,421 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:37,421 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:37,421 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:37,421 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:37,421 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:37,421 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:38,420 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:38,420 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:38,420 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:38,420 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:38,420 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:38,420 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:38,420 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:38,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:38,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:38,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:38,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:38,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:38,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:38,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,008 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,008 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,008 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,008 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,008 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,008 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,008 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,008 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,012 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,012 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,012 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,012 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,012 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,012 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,012 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,012 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,325 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,325 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,325 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,325 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,325 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,325 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,325 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,325 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,325 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,331 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,331 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,331 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,331 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,331 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,331 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,331 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,331 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,331 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,962 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,962 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,962 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,962 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,962 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,962 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,962 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,962 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,962 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,962 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:47,967 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,967 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,967 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,967 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,967 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,967 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,967 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,967 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,967 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:47,967 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:51,323 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:51,323 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:51,323 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:51,323 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:51,323 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:51,323 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:51,323 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:51,323 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:51,323 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:51,323 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:51,323 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:33:51,329 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:51,329 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:51,329 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:51,329 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:51,329 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:51,329 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:51,329 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:51,329 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:51,329 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:51,329 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:33:51,329 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:12,157 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:12,157 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:12,157 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:12,157 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:12,157 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:12,157 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:12,157 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:12,157 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:12,157 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:12,157 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:12,157 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:12,157 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:12,164 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:12,164 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:12,164 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:12,164 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:12,164 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:12,164 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:12,164 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:12,164 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:12,164 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:12,164 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:12,164 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:12,164 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:37,687 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:37,687 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:37,687 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:37,687 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:37,687 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:37,687 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:37,687 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:37,687 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:37,687 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:37,687 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:37,687 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:37,687 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:37,687 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:37,695 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:37,695 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:37,695 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:37,695 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:37,695 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:37,695 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:37,695 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:37,695 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:37,695 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:37,695 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:37,695 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:37,695 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:37,695 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:43,007 - DEBUG - Popen(['git', 'version'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,007 - DEBUG - Popen(['git', 'version'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,007 - DEBUG - Popen(['git', 'version'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,007 - DEBUG - Popen(['git', 'version'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,007 - DEBUG - Popen(['git', 'version'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,007 - DEBUG - Popen(['git', 'version'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,007 - DEBUG - Popen(['git', 'version'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,007 - DEBUG - Popen(['git', 'version'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,007 - DEBUG - Popen(['git', 'version'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,007 - DEBUG - Popen(['git', 'version'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,007 - DEBUG - Popen(['git', 'version'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,007 - DEBUG - Popen(['git', 'version'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,007 - DEBUG - Popen(['git', 'version'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,052 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,052 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,052 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,052 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,052 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,052 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,052 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,052 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,052 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,052 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,052 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,052 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,052 - DEBUG - Popen(['git', 'rev-parse', '--show-toplevel'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,095 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,095 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,095 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,095 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,095 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,095 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,095 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,095 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,095 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,095 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,095 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,095 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,095 - DEBUG - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,138 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,138 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,138 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,138 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,138 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,138 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,138 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,138 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,138 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,138 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,138 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,138 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,138 - DEBUG - Popen(['git', 'status', '--porcelain', '--untracked-files'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,194 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,194 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,194 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,194 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,194 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,194 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,194 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,194 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,194 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,194 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,194 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,194 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,194 - DEBUG - Popen(['git', 'diff', '--abbrev=40', '--full-index', '-M', '--raw', '-z', '--no-color'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,290 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=<valid stream>, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,290 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=<valid stream>, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,290 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=<valid stream>, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,290 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=<valid stream>, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,290 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=<valid stream>, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,290 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=<valid stream>, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,290 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=<valid stream>, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,290 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=<valid stream>, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,290 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=<valid stream>, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,290 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=<valid stream>, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,290 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=<valid stream>, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,290 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=<valid stream>, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,290 - DEBUG - Popen(['git', 'cat-file', '--batch-check'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=<valid stream>, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,355 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,355 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,355 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,355 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,355 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,355 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,355 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,355 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,355 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,355 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,355 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,355 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:43,355 - DEBUG - Popen(['git', 'rev-list', 'origin/main..main', '--'], cwd=C:\AI\TrainingBasic\chatGPT+ElevenLabs, stdin=None, shell=False, universal_newlines=False)
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,044 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:48,051 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,114 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,123 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,446 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,454 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,617 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:35:51,627 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,950 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:37:09,957 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:39:49,976 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:39:50,134 - INFO - Default gray image created.
+2023-12-16 01:39:50,137 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:39:51,163 - INFO - Loading new analysis results and image.
+2023-12-16 01:39:51,196 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:39:51,196 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:39:51,201 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:39:51,201 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:00,306 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:00,306 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:00,306 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:00,311 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:00,311 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:00,311 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:14,449 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:14,449 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:14,449 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:14,449 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:14,452 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:14,452 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:14,452 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:14,452 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:26,142 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:26,142 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:26,142 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:26,142 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:26,142 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:26,147 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:26,147 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:26,147 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:26,147 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:26,147 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:49,039 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:49,224 - INFO - Default gray image created.
+2023-12-16 01:40:49,228 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:50,249 - INFO - Loading new analysis results and image.
+2023-12-16 01:40:50,280 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:50,280 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:50,286 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:50,286 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:55,343 - INFO - Loading new analysis results and image.
+2023-12-16 01:40:55,343 - INFO - Loading new analysis results and image.
+2023-12-16 01:40:55,376 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:55,376 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:55,376 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:40:55,379 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:55,379 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:40:55,379 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:41:13,564 - INFO - Loading new analysis results and image.
+2023-12-16 01:41:13,564 - INFO - Loading new analysis results and image.
+2023-12-16 01:41:13,564 - INFO - Loading new analysis results and image.
+2023-12-16 01:41:13,596 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:41:13,596 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:41:13,596 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:41:13,596 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:41:13,600 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:41:13,600 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:41:13,600 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:41:13,600 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:42:23,088 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:42:23,233 - INFO - Default gray image created.
+2023-12-16 01:42:23,239 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:42:23,763 - INFO - Loading new analysis results and image.
+2023-12-16 01:42:23,796 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:42:23,796 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:42:23,800 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:42:23,800 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:42:32,530 - INFO - Loading new analysis results and image.
+2023-12-16 01:42:32,530 - INFO - Loading new analysis results and image.
+2023-12-16 01:42:32,565 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:42:32,565 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:42:32,565 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:42:32,567 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:42:32,567 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:42:32,567 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:43:06,972 - INFO - Loading new analysis results and image.
+2023-12-16 01:43:06,972 - INFO - Loading new analysis results and image.
+2023-12-16 01:43:06,972 - INFO - Loading new analysis results and image.
+2023-12-16 01:43:07,007 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:43:07,007 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:43:07,007 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:43:07,007 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:43:07,011 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:43:07,011 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:43:07,011 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:43:07,011 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:50,725 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:50,893 - INFO - Default gray image created.
+2023-12-16 01:46:50,897 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:51,413 - INFO - Loading new analysis results and image.
+2023-12-16 01:46:51,445 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:51,445 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:51,445 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:51,445 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:53,555 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:53,555 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:53,555 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:53,557 - INFO - Default gray image created.
+2023-12-16 01:46:53,557 - INFO - Default gray image created.
+2023-12-16 01:46:53,557 - INFO - Default gray image created.
+2023-12-16 01:46:53,560 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:53,560 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:53,560 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:54,078 - INFO - Loading new analysis results and image.
+2023-12-16 01:46:54,078 - INFO - Loading new analysis results and image.
+2023-12-16 01:46:54,078 - INFO - Loading new analysis results and image.
+2023-12-16 01:46:54,110 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:54,110 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:54,110 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:54,110 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:54,110 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:54,110 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:54,110 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:54,110 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:56,591 - INFO - Loading new analysis results and image.
+2023-12-16 01:46:56,591 - INFO - Loading new analysis results and image.
+2023-12-16 01:46:56,591 - INFO - Loading new analysis results and image.
+2023-12-16 01:46:56,591 - INFO - Loading new analysis results and image.
+2023-12-16 01:46:56,620 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:56,620 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:56,620 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:56,620 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:56,620 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:56,625 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:56,625 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:56,625 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:56,625 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:56,625 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:56,716 - INFO - Loading new analysis results and image.
+2023-12-16 01:46:56,716 - INFO - Loading new analysis results and image.
+2023-12-16 01:46:56,716 - INFO - Loading new analysis results and image.
+2023-12-16 01:46:56,716 - INFO - Loading new analysis results and image.
+2023-12-16 01:46:56,716 - INFO - Loading new analysis results and image.
+2023-12-16 01:46:56,749 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:56,749 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:56,749 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:56,749 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:56,749 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:56,749 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:46:56,752 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:56,752 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:56,752 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:56,752 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:56,752 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:46:56,752 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,664 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:15,664 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:15,664 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:15,664 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:15,664 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:15,664 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:15,699 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,699 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,699 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,699 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,699 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,699 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,699 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,705 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,705 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,705 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,705 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,705 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,705 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,705 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,776 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:15,776 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:15,776 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:15,776 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:15,776 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:15,776 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:15,776 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:15,812 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,812 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,812 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,812 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,812 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,812 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,812 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,812 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:15,817 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,817 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,817 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,817 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,817 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,817 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,817 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:15,817 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:34,860 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:34,860 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:34,860 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:34,860 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:34,860 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:34,860 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:34,860 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:34,860 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:34,894 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:34,894 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:34,894 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:34,894 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:34,894 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:34,894 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:34,894 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:34,894 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:34,894 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:34,901 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:34,901 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:34,901 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:34,901 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:34,901 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:34,901 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:34,901 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:34,901 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:34,901 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:35,276 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:35,276 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:35,276 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:35,276 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:35,276 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:35,276 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:35,276 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:35,276 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:35,276 - INFO - Loading new analysis results and image.
+2023-12-16 01:47:35,309 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:35,309 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:35,309 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:35,309 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:35,309 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:35,309 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:35,309 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:35,309 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:35,309 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:35,309 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:47:35,319 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:35,319 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:35,319 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:35,319 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:35,319 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:35,319 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:35,319 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:35,319 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:35,319 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:47:35,319 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:48:53,883 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:48:54,040 - INFO - Default gray image created.
+2023-12-16 01:48:54,043 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:48:54,576 - INFO - Loading new analysis results and image.
+2023-12-16 01:48:54,610 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:48:54,610 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:48:54,618 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:48:54,618 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:02,562 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:02,562 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:02,562 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:02,571 - INFO - Default gray image created.
+2023-12-16 01:49:02,571 - INFO - Default gray image created.
+2023-12-16 01:49:02,571 - INFO - Default gray image created.
+2023-12-16 01:49:02,574 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:02,574 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:02,574 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:03,097 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:03,097 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:03,097 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:03,128 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:03,128 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:03,128 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:03,128 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:03,131 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:03,131 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:03,131 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:03,131 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:05,208 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:05,208 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:05,208 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:05,208 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:05,236 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:05,236 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:05,236 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:05,236 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:05,236 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:05,245 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:05,245 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:05,245 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:05,245 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:05,245 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:05,431 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:05,431 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:05,431 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:05,431 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:05,431 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:05,466 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:05,466 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:05,466 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:05,466 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:05,466 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:05,466 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:05,470 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:05,470 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:05,470 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:05,470 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:05,470 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:05,470 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:12,568 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:12,568 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:12,568 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:12,568 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:12,568 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:12,568 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:12,568 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:12,570 - INFO - Default gray image created.
+2023-12-16 01:49:12,570 - INFO - Default gray image created.
+2023-12-16 01:49:12,570 - INFO - Default gray image created.
+2023-12-16 01:49:12,570 - INFO - Default gray image created.
+2023-12-16 01:49:12,570 - INFO - Default gray image created.
+2023-12-16 01:49:12,570 - INFO - Default gray image created.
+2023-12-16 01:49:12,570 - INFO - Default gray image created.
+2023-12-16 01:49:12,575 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:12,575 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:12,575 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:12,575 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:12,575 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:12,575 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:12,575 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:13,097 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:13,097 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:13,097 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:13,097 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:13,097 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:13,097 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:13,097 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:13,130 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:13,130 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:13,130 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:13,130 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:13,130 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:13,130 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:13,130 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:13,130 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:13,137 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:13,137 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:13,137 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:13,137 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:13,137 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:13,137 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:13,137 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:13,137 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,467 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,467 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,467 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,467 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,467 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,467 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,467 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,467 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,497 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,497 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,497 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,497 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,497 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,497 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,497 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,497 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,497 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,502 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,502 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,502 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,502 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,502 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,502 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,502 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,502 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,502 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,529 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,529 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,529 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,529 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,529 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,529 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,529 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,529 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,529 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,565 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,565 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,565 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,565 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,565 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,565 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,565 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,565 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,565 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,565 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,570 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,570 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,570 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,570 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,570 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,570 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,570 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,570 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,570 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,570 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,824 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,824 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,824 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,824 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,824 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,824 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,824 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,824 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,824 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,824 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:24,842 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,842 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,842 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,842 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,842 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,842 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,842 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,842 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,842 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,842 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,842 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:24,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:24,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,580 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,580 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,580 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,580 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,580 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,580 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,580 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,580 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,580 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,580 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,580 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,609 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,609 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,609 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,609 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,609 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,609 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,609 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,609 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,609 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,609 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,609 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,609 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,620 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,620 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,620 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,620 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,620 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,620 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,620 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,620 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,620 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,620 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,620 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,620 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,737 - INFO - Loading new analysis results and image.
+2023-12-16 01:49:49,816 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,816 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,816 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,816 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,816 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,816 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,816 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,816 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,816 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,816 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,816 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,816 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,816 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,818 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,828 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:49:49,829 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:53:13,125 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:53:13,289 - INFO - Default gray image created.
+2023-12-16 01:53:13,292 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:53:13,818 - INFO - Loading new analysis results and image.
+2023-12-16 01:53:13,859 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:53:13,859 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:53:13,859 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:53:13,859 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:53:21,616 - INFO - Loading new analysis results and image.
+2023-12-16 01:53:21,616 - INFO - Loading new analysis results and image.
+2023-12-16 01:53:21,650 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:53:21,650 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:53:21,650 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:53:21,653 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:53:21,653 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:53:21,653 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:53:45,355 - INFO - Loading new analysis results and image.
+2023-12-16 01:53:45,355 - INFO - Loading new analysis results and image.
+2023-12-16 01:53:45,355 - INFO - Loading new analysis results and image.
+2023-12-16 01:53:45,388 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:53:45,388 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:53:45,388 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:53:45,388 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:53:45,390 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:53:45,390 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:53:45,390 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:53:45,390 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:54:10,087 - INFO - Loading new analysis results and image.
+2023-12-16 01:54:10,087 - INFO - Loading new analysis results and image.
+2023-12-16 01:54:10,087 - INFO - Loading new analysis results and image.
+2023-12-16 01:54:10,087 - INFO - Loading new analysis results and image.
+2023-12-16 01:54:10,126 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:54:10,126 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:54:10,126 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:54:10,126 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:54:10,126 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:54:10,129 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:54:10,129 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:54:10,129 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:54:10,129 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:54:10,129 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:55:06,795 - INFO - Loading new analysis results and image.
+2023-12-16 01:55:06,795 - INFO - Loading new analysis results and image.
+2023-12-16 01:55:06,795 - INFO - Loading new analysis results and image.
+2023-12-16 01:55:06,795 - INFO - Loading new analysis results and image.
+2023-12-16 01:55:06,795 - INFO - Loading new analysis results and image.
+2023-12-16 01:55:06,834 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:55:06,834 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:55:06,834 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:55:06,834 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:55:06,834 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:55:06,834 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 01:55:06,838 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:55:06,838 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:55:06,838 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:55:06,838 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:55:06,838 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 01:55:06,838 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:28:49,181 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:28:49,363 - INFO - Default gray image created.
+2023-12-16 14:28:49,366 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:28:49,907 - INFO - Loading new analysis results and image.
+2023-12-16 14:28:49,944 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:28:49,944 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:28:49,947 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:28:49,947 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:28:59,219 - INFO - Loading new analysis results and image.
+2023-12-16 14:28:59,219 - INFO - Loading new analysis results and image.
+2023-12-16 14:28:59,251 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:28:59,251 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:28:59,251 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:28:59,253 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:28:59,253 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:28:59,253 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:30:20,073 - INFO - Loading new analysis results and image.
+2023-12-16 14:30:20,073 - INFO - Loading new analysis results and image.
+2023-12-16 14:30:20,073 - INFO - Loading new analysis results and image.
+2023-12-16 14:30:20,108 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:30:20,108 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:30:20,108 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:30:20,108 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:30:20,111 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:30:20,111 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:30:20,111 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:30:20,111 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:43:18,872 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:43:19,022 - INFO - Default gray image created.
+2023-12-16 14:43:19,027 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:43:19,562 - INFO - Loading new analysis results and image.
+2023-12-16 14:43:19,594 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:43:19,594 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:43:19,598 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:43:19,598 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:43:27,316 - INFO - Loading new analysis results and image.
+2023-12-16 14:43:27,316 - INFO - Loading new analysis results and image.
+2023-12-16 14:43:27,349 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:43:27,349 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:43:27,349 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:43:27,355 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:43:27,355 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:43:27,355 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:44:12,647 - INFO - Loading new analysis results and image.
+2023-12-16 14:44:12,647 - INFO - Loading new analysis results and image.
+2023-12-16 14:44:12,647 - INFO - Loading new analysis results and image.
+2023-12-16 14:44:12,694 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:44:12,694 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:44:12,694 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:44:12,694 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:44:12,699 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:44:12,699 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:44:12,699 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:44:12,699 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:45:23,189 - INFO - Loading new analysis results and image.
+2023-12-16 14:45:23,189 - INFO - Loading new analysis results and image.
+2023-12-16 14:45:23,189 - INFO - Loading new analysis results and image.
+2023-12-16 14:45:23,189 - INFO - Loading new analysis results and image.
+2023-12-16 14:45:23,224 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:45:23,224 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:45:23,224 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:45:23,224 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:45:23,224 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:45:23,228 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:45:23,228 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:45:23,228 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:45:23,228 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:45:23,228 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:46:34,158 - INFO - Loading new analysis results and image.
+2023-12-16 14:46:34,158 - INFO - Loading new analysis results and image.
+2023-12-16 14:46:34,158 - INFO - Loading new analysis results and image.
+2023-12-16 14:46:34,158 - INFO - Loading new analysis results and image.
+2023-12-16 14:46:34,158 - INFO - Loading new analysis results and image.
+2023-12-16 14:46:34,203 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:46:34,203 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:46:34,203 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:46:34,203 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:46:34,203 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:46:34,203 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:46:34,208 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:46:34,208 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:46:34,208 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:46:34,208 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:46:34,208 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:46:34,208 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:47:23,577 - INFO - Loading new analysis results and image.
+2023-12-16 14:47:23,577 - INFO - Loading new analysis results and image.
+2023-12-16 14:47:23,577 - INFO - Loading new analysis results and image.
+2023-12-16 14:47:23,577 - INFO - Loading new analysis results and image.
+2023-12-16 14:47:23,577 - INFO - Loading new analysis results and image.
+2023-12-16 14:47:23,577 - INFO - Loading new analysis results and image.
+2023-12-16 14:47:23,630 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:47:23,630 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:47:23,630 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:47:23,630 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:47:23,630 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:47:23,630 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:47:23,630 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:47:23,634 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:47:23,634 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:47:23,634 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:47:23,634 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:47:23,634 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:47:23,634 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:47:23,634 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:48:32,581 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:48:32,782 - INFO - Default gray image created.
+2023-12-16 14:48:32,788 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:48:33,309 - INFO - Loading new analysis results and image.
+2023-12-16 14:48:33,341 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:48:33,341 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:48:33,342 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:48:33,342 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:48:49,341 - INFO - Loading new analysis results and image.
+2023-12-16 14:48:49,341 - INFO - Loading new analysis results and image.
+2023-12-16 14:48:49,383 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:48:49,383 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:48:49,383 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:48:49,386 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:48:49,386 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:48:49,386 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:49:32,210 - INFO - Loading new analysis results and image.
+2023-12-16 14:49:32,210 - INFO - Loading new analysis results and image.
+2023-12-16 14:49:32,210 - INFO - Loading new analysis results and image.
+2023-12-16 14:49:32,241 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:49:32,241 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:49:32,241 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:49:32,241 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:49:32,245 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:49:32,245 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:49:32,245 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:49:32,245 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:50:32,593 - INFO - Loading new analysis results and image.
+2023-12-16 14:50:32,593 - INFO - Loading new analysis results and image.
+2023-12-16 14:50:32,593 - INFO - Loading new analysis results and image.
+2023-12-16 14:50:32,593 - INFO - Loading new analysis results and image.
+2023-12-16 14:50:32,638 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:50:32,638 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:50:32,638 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:50:32,638 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:50:32,638 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:50:32,642 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:50:32,642 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:50:32,642 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:50:32,642 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:50:32,642 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:51:42,657 - INFO - Loading new analysis results and image.
+2023-12-16 14:51:42,657 - INFO - Loading new analysis results and image.
+2023-12-16 14:51:42,657 - INFO - Loading new analysis results and image.
+2023-12-16 14:51:42,657 - INFO - Loading new analysis results and image.
+2023-12-16 14:51:42,657 - INFO - Loading new analysis results and image.
+2023-12-16 14:51:42,695 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:51:42,695 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:51:42,695 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:51:42,695 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:51:42,695 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:51:42,695 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:51:42,699 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:51:42,699 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:51:42,699 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:51:42,699 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:51:42,699 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:51:42,699 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:52:29,341 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:52:29,552 - INFO - Default gray image created.
+2023-12-16 14:52:29,558 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:52:30,081 - INFO - Loading new analysis results and image.
+2023-12-16 14:52:30,118 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:52:30,118 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:52:30,121 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:52:30,121 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:52:42,094 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:52:42,299 - INFO - Default gray image created.
+2023-12-16 14:52:42,303 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:52:42,832 - INFO - Loading new analysis results and image.
+2023-12-16 14:52:42,870 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:52:42,870 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:52:42,872 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:52:42,872 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:52:54,780 - INFO - Loading new analysis results and image.
+2023-12-16 14:52:54,780 - INFO - Loading new analysis results and image.
+2023-12-16 14:52:54,808 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:52:54,808 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:52:54,808 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:52:54,810 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:52:54,810 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:52:54,810 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:53:29,813 - INFO - Loading new analysis results and image.
+2023-12-16 14:53:29,813 - INFO - Loading new analysis results and image.
+2023-12-16 14:53:29,813 - INFO - Loading new analysis results and image.
+2023-12-16 14:53:29,856 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:53:29,856 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:53:29,856 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:53:29,856 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:53:29,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:53:29,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:53:29,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:53:29,862 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:54:47,067 - INFO - Loading new analysis results and image.
+2023-12-16 14:54:47,067 - INFO - Loading new analysis results and image.
+2023-12-16 14:54:47,067 - INFO - Loading new analysis results and image.
+2023-12-16 14:54:47,067 - INFO - Loading new analysis results and image.
+2023-12-16 14:54:47,101 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:54:47,101 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:54:47,101 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:54:47,101 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:54:47,101 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:54:47,105 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:54:47,105 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:54:47,105 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:54:47,105 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:54:47,105 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:55:56,598 - INFO - Loading new analysis results and image.
+2023-12-16 14:55:56,598 - INFO - Loading new analysis results and image.
+2023-12-16 14:55:56,598 - INFO - Loading new analysis results and image.
+2023-12-16 14:55:56,598 - INFO - Loading new analysis results and image.
+2023-12-16 14:55:56,598 - INFO - Loading new analysis results and image.
+2023-12-16 14:55:56,645 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:55:56,645 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:55:56,645 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:55:56,645 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:55:56,645 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:55:56,645 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:55:56,649 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:55:56,649 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:55:56,649 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:55:56,649 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:55:56,649 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:55:56,649 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:56:38,384 - INFO - Loading new analysis results and image.
+2023-12-16 14:56:38,384 - INFO - Loading new analysis results and image.
+2023-12-16 14:56:38,384 - INFO - Loading new analysis results and image.
+2023-12-16 14:56:38,384 - INFO - Loading new analysis results and image.
+2023-12-16 14:56:38,384 - INFO - Loading new analysis results and image.
+2023-12-16 14:56:38,384 - INFO - Loading new analysis results and image.
+2023-12-16 14:56:38,427 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:56:38,427 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:56:38,427 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:56:38,427 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:56:38,427 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:56:38,427 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:56:38,427 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:56:38,432 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:56:38,432 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:56:38,432 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:56:38,432 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:56:38,432 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:56:38,432 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:56:38,432 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:57:27,379 - INFO - Loading new analysis results and image.
+2023-12-16 14:57:27,379 - INFO - Loading new analysis results and image.
+2023-12-16 14:57:27,379 - INFO - Loading new analysis results and image.
+2023-12-16 14:57:27,379 - INFO - Loading new analysis results and image.
+2023-12-16 14:57:27,379 - INFO - Loading new analysis results and image.
+2023-12-16 14:57:27,379 - INFO - Loading new analysis results and image.
+2023-12-16 14:57:27,379 - INFO - Loading new analysis results and image.
+2023-12-16 14:57:27,422 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:57:27,422 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:57:27,422 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:57:27,422 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:57:27,422 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:57:27,422 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:57:27,422 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:57:27,422 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:57:27,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:57:27,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:57:27,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:57:27,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:57:27,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:57:27,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:57:27,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:57:27,426 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:58:10,686 - INFO - Loading new analysis results and image.
+2023-12-16 14:58:10,686 - INFO - Loading new analysis results and image.
+2023-12-16 14:58:10,686 - INFO - Loading new analysis results and image.
+2023-12-16 14:58:10,686 - INFO - Loading new analysis results and image.
+2023-12-16 14:58:10,686 - INFO - Loading new analysis results and image.
+2023-12-16 14:58:10,686 - INFO - Loading new analysis results and image.
+2023-12-16 14:58:10,686 - INFO - Loading new analysis results and image.
+2023-12-16 14:58:10,686 - INFO - Loading new analysis results and image.
+2023-12-16 14:58:10,738 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:58:10,738 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:58:10,738 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:58:10,738 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:58:10,738 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:58:10,738 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:58:10,738 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:58:10,738 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:58:10,738 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:58:10,744 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:58:10,744 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:58:10,744 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:58:10,744 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:58:10,744 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:58:10,744 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:58:10,744 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:58:10,744 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:58:10,744 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:59:10,446 - INFO - Loading new analysis results and image.
+2023-12-16 14:59:10,446 - INFO - Loading new analysis results and image.
+2023-12-16 14:59:10,446 - INFO - Loading new analysis results and image.
+2023-12-16 14:59:10,446 - INFO - Loading new analysis results and image.
+2023-12-16 14:59:10,446 - INFO - Loading new analysis results and image.
+2023-12-16 14:59:10,446 - INFO - Loading new analysis results and image.
+2023-12-16 14:59:10,446 - INFO - Loading new analysis results and image.
+2023-12-16 14:59:10,446 - INFO - Loading new analysis results and image.
+2023-12-16 14:59:10,446 - INFO - Loading new analysis results and image.
+2023-12-16 14:59:10,498 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:59:10,498 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:59:10,498 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:59:10,498 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:59:10,498 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:59:10,498 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:59:10,498 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:59:10,498 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:59:10,498 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:59:10,498 - INFO - ------------------------Start logging for ui.py -------------------------------
+2023-12-16 14:59:10,503 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:59:10,503 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:59:10,503 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:59:10,503 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:59:10,503 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:59:10,503 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:59:10,503 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:59:10,503 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:59:10,503 - INFO - Loading image from artifacts/frames/frame.jpg.
+2023-12-16 14:59:10,503 - INFO - Loading image from artifacts/frames/frame.jpg.
