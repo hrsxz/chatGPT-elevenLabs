@@ -19,7 +19,7 @@ class client_elevenlabs():
     Args:
         play (_type_): _description_
     """
-    def __init__(self, voice_id="DPsqCHWEBVTyO9962K8u"):
+    def __init__(self, voice_id="Fq5OJJwxtdJafNydKC4i"):  # default: DPsqCHWEBVTyO9962K8u
         self.api_key = os.getenv('ELEVEN_API_KEY')
         if self.api_key is None:
             raise Exception("Missing ELEVEN_API_KEY environment variable")

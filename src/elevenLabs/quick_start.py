@@ -5,8 +5,9 @@ import requests
 
 
 CHUNK_SIZE = 1024
-url = "https://api.elevenlabs.io/v1/text-to-speech/DPsqCHWEBVTyO9962K8u"  # 3uKAXEQt3XkLH6uWDheu
+# url = "https://api.elevenlabs.io/v1/text-to-speech/DPsqCHWEBVTyO9962K8u"  # 3uKAXEQt3XkLH6uWDheu
 
+url = "https://api.elevenlabs.io/v1/text-to-speech/Fq5OJJwxtdJafNydKC4i"  # GH Fq5OJJwxtdJafNydKC4i
 headers = {
     "Accept": "audio/mpeg",
     "Content-Type": "application/json",
@@ -14,10 +15,8 @@ headers = {
 }
 
 data = {
-    "text": "Born and raised in the charming south,\n"
-            "I can add a touch of sweet southern hospitality\n"
-            "to your audiobooks and podcasts",
-    "model_id": "eleven_monolingual_v1",
+    "text": "感觉不太像？",
+    "model_id": "eleven_multilingual_v2",
     "voice_settings": {
         "stability": 0.5,
         "similarity_boost": 0.5
