@@ -41,7 +41,7 @@ class Capture_Pics(Process):
     def run(self):
         logging.info("Capture Pics process started")
         while True:
-            time.sleep(0.1)
+            time.sleep(10)
             # Need to wait until audio is done
             if self.event_done.value:
                 capture_image = capture_pics.Capture_Pics()
