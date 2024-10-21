@@ -80,12 +80,12 @@ play(audio)
 
   1. Download the appropriate version for Windows ([Go to the FFmpeg Download Page](https://github.com/BtbN/FFmpeg-Builds/releases)).
 
-  2. Extract the files to a directory (e.g., C:\ffmpeg). And add ffmpeg to the System Path.
+  2. Extract the files to a directory (e.g., C:\ffmpeg). And add ffmpeg to the System Path.![alt text](image.png)
 
   3. Verify Installation:
 
       ```powershell
-      tesseract --version
+      ffmpeg  --version
       ```
 
 ## Import file from source code directory
