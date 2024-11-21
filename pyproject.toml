@@ -1,0 +1,43 @@
+[tool.black] 
+line-length = 88  # Set the maximum line length, aligned with PEP 8 recommendations 
+target-version = ["py39"]  # Target Python version 
+skip-string-normalization = false  # Whether to keep the original string quotes format 
+
+[tool.isort] 
+profile = "black"  # Make isort compatible with Black's formatting 
+line_length = 88  # Align the maximum line length with Black 
+combine_as_imports = true  # Combine imports with "as" into a single statement 
+known_third_party = ["numpy", "pandas"]  # Specify third-party libraries for better import sorting 
+default_section = "THIRDPARTY"  # Default section for third-party imports 
+
+[tool.flake8] 
+max-line-length = 88  # Set the maximum line length, consistent with Black and isort 
+ignore = ["E203", "W503"]  # Ignore rules conflicting with Black's formatting 
+exclude = [ 
+    ".git", 
+    "__pycache__", 
+    "venv", 
+    "build", 
+    "dist" 
+]  # Exclude specific directories and files from linting 
+
+[tool.mypy] 
+python_version = "3.9"  # Specify the target Python version 
+ignore_missing_imports = true  # Ignore missing imports (e.g., C extension modules) 
+strict_optional = true  # Enable stricter checks for optional types 
+warn_unused_ignores = true  # Warn if a `# type: ignore` comment is unused 
+check_untyped_defs = true  # Check functions without type annotations 
+disallow_untyped_calls = true  # Disallow calls to functions without type annotations 
+
+[tool.pylint]
+disable = [
+    "C0103",  # Ignore invalid-name (e.g., variable names not in snake_case)
+    "C0114",  # Ignore missing-module-docstring
+    "C0115",  # Ignore missing-class-docstring
+    "C0116"   # Ignore missing-function-docstring
+]
+max-line-length = 88  # Set maximum line length, consistent with Black
+good-names = ["i", "j", "k", "id", "df"]  # Allow short variable names commonly used in loops or pandas
+ignored-modules = ["numpy", "pandas"]  # Ignore specific modules for import warnings
+ignored-classes = ["DataFrame"]  # Ignore specific classes for style checks
+jobs = 4  # Use parallel jobs for faster linting
