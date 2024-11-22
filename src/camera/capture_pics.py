@@ -14,9 +14,9 @@ filename = project_root_path / "logs/camera.log"
 logging.basicConfig(level=logging.DEBUG, filename=filename)
 
 
-class Capture_Pics():
-    """This class use for capturing pics from webcam
-    """
+class Capture_Pics:
+    """This class use for capturing pics from webcam"""
+
     def __init__(self, folder=project_root_path / "artifacts/frames"):
         # Folder
         self.folder = project_root_path / "artifacts/frames"
@@ -47,7 +47,7 @@ class Capture_Pics():
             # Resize the image
             max_size = 600
             ratio = max_size / max(pil_img.size)
-            new_size = tuple([int(x*ratio) for x in pil_img.size])
+            new_size = tuple(int(x * ratio) for x in pil_img.size)
             resized_img = pil_img.resize(new_size, Image.LANCZOS)
 
             # Convert the PIL image back to an OpenCV image
@@ -70,10 +70,9 @@ class Capture_Pics():
 
     def frame_to_base64(self, frame):
         # convert the frame to JPEG format
-        retval, buffer = cv2.imencode('.jpg', frame)
+        retval, buffer = cv2.imencode(".jpg", frame)
         if retval:
             # convert the image to bytes and base64 encode it
-            jpg_as_text = base64.b64encode(buffer).decode()
+            jpg_as_text = base64.b64encode(buffer.tobytes()).decode()
             return jpg_as_text
-        else:
-            raise ValueError("Could not convert the frame to JPEG")
+        raise ValueError("Could not convert the frame to JPEG")

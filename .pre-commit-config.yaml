@@ -25,6 +25,15 @@
 #     hooks:
 #       - id: mypy
 #         args: ["--ignore-missing-imports"]
+#
+#   # nbQA - check for jupyter notebook
+#   - repo: https://github.com/nbQA-dev/nbQA
+#     rev: 1.5.2
+#     hooks:
+#       - id: nbqa-black
+#       - id: nbqa-flake8
+#       - id: nbqa-pylint
+#       - id: nbqa-mypy
 
 repos:
   - repo: local
@@ -35,7 +44,7 @@ repos:
         entry: venv/Scripts/isort.exe
         language: system
         types: [python]
-        files: ^.*/.py$  # 只检查 .py 文件
+        files: ^.*\.py$  # 只检查 .py 文件
 
       # black - Code formatter
       - id: black
@@ -43,7 +52,7 @@ repos:
         entry: venv/Scripts/black.exe
         language: system
         types: [python]
-        files: ^.*/.py$
+        files: ^.*\.py$
 
       # flake8 - Code linting
       - id: flake8
@@ -51,15 +60,7 @@ repos:
         entry: venv/Scripts/flake8.exe
         language: system
         types: [python]
-        files: ^.*/.py$
-
-      # mypy - Static type checker
-      - id: mypy
-        name: mypy (local)
-        entry: venv/Scripts/mypy.exe
-        language: system
-        types: [python]
-        files: ^.*/.py$
+        files: ^.*\.py$
 
       # pylint - Code quality checker
       - id: pylint
@@ -67,6 +68,12 @@ repos:
         entry: venv/Scripts/pylint.exe
         language: system
         types: [python]
-        files: ^.*/.py$
+        files: ^.*\.py$
 
-default_stages: [commit]  # 默认在 commit 阶段运行
+      # mypy - Static type checker
+      - id: mypy
+        name: mypy (local)
+        entry: venv/Scripts/mypy.exe
+        language: system
+        types: [python]
+        files: ^.*\.py$

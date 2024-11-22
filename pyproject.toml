@@ -34,7 +34,8 @@ disable = [
     "C0103",  # Ignore invalid-name (e.g., variable names not in snake_case)
     "C0114",  # Ignore missing-module-docstring
     "C0115",  # Ignore missing-class-docstring
-    "C0116"   # Ignore missing-function-docstring
+    "C0116",  # Ignore missing-function-docstring
+    "E1101"   # Ignore Instance of 'object' has no 'member' (no-member)
 ]
 max-line-length = 88  # Set maximum line length, consistent with Black
 good-names = ["i", "j", "k", "id", "df"]  # Allow short variable names commonly used in loops or pandas
