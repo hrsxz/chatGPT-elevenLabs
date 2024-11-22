@@ -1,12 +1,11 @@
-import os
 import base64
 import errno
-import time
 import logging
-
-from openai import OpenAI
+import os
+import time
 from pathlib import Path
 
+from openai import OpenAI
 
 # Calculate the project root path directly
 project_root_path = Path(__file__).resolve().parent.parent.parent
@@ -14,7 +13,7 @@ filename = project_root_path / "logs/gpt_utils.log"
 logging.basicConfig(level=logging.DEBUG, filename=filename)
 
 
-class client_chatGPT():
+class client_chatGPT:
     """This class summarize the utility methods for chatGPT
     Raises:
         Exception: _description_
@@ -24,10 +23,12 @@ class client_chatGPT():
     """
 
     def __init__(self):
-        super(client_chatGPT, self).__init__()
-        api_key = os.getenv('OPENAI_API_KEY')
+        super().__init__()
+        api_key = os.getenv("OPENAI_API_KEY")
         if api_key is None:
-            raise Exception("Missing OPENAI_API_KEY environment variable")
+            # raise Exception("Missing OPENAI_API_KEY environment variable")
+            # W0719: Raising too general exception (broad-exception-raised)
+            raise ValueError("Missing OPENAI_API_KEY environment variable")
         self.client = OpenAI(api_key=api_key)
 
     def test_connection(self, model_name):
@@ -41,7 +42,8 @@ class client_chatGPT():
             if chunk.choices[0].delta.content is not None:
                 print(chunk.choices[0].delta.content, end="")
 
-    def user_message(self, base64_image):
+    def user_message(self, base64_image: str):
+        """Display a user message."""
         return [
             {
                 "role": "user",
@@ -51,7 +53,7 @@ class client_chatGPT():
                         "type": "image_url",
                         "image_url": f"data:image/jpeg;base64,{base64_image}",
                     },
-                    {"type": "text", "text": "请用中文回答问题。"}
+                    {"type": "text", "text": "请用中文回答问题。"},
                 ],
             },
         ]
@@ -83,7 +85,8 @@ class client_chatGPT():
         response_text = response.choices[0].message.content
         return response_text
 
-    def encode_image(self, image_path):
+    def encode_image(self, image_path: str) -> str:
+        """Encode an image file to a base64 string."""
         while True:
             try:
                 with open(image_path, "rb") as image_file:

@@ -1,3 +1,6 @@
 {
-    "pylint.enabled": true
+    "pylint.enabled": true,
+    "editor.rulers": [
+        88, 100
+    ]
 }

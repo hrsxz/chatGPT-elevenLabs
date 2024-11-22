@@ -1,13 +1,12 @@
-import time
-import logging
 import ctypes
-
+import logging
+import time
 from multiprocessing import Process, Queue, Value
-from src.chatGPT import gpt_utils
-from src.camera import capture_pics
-from src.elevenLabs import elevenLabs_utils
 from pathlib import Path
 
+from src.camera import capture_pics
+from src.chatGPT import gpt_utils
+from src.elevenLabs import elevenLabs_utils
 
 # Calculate the project root path directly
 project_root_path = Path(__file__).resolve().parent
@@ -16,23 +15,25 @@ project_root_path = Path(__file__).resolve().parent
 def setup_logging():
     logging.basicConfig(
         level=logging.DEBUG,
-        filename='./logs/app.log',
-        filemode='a',
-        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+        filename="./logs/app.log",
+        filemode="a",
+        format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
     )
     console = logging.StreamHandler()
     console.setLevel(logging.DEBUG)
-    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    formatter = logging.Formatter(
+        "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+    )
     console.setFormatter(formatter)
-    logging.getLogger('').addHandler(console)
+    logging.getLogger("").addHandler(console)
 
 
 setup_logging()
 
 
 class Capture_Pics(Process):
-    """This class use for capturing pics from webcam
-    """
+    """This class use for capturing pics from webcam"""
+
     def __init__(self, image_queue, event_done):
         super(Capture_Pics, self).__init__()
         self.queue = image_queue
@@ -61,8 +62,8 @@ class Capture_Pics(Process):
 
 
 class Analytic_Process(Process):
-    """This class summarize the utility methods for chatGPT
-    """
+    """This class summarize the utility methods for chatGPT"""
+
     def __init__(self, response_queue, image_queue):
         super(Analytic_Process, self).__init__()
         self.response_queue = response_queue
@@ -84,14 +85,18 @@ class Analytic_Process(Process):
                     else:
                         self.base64_image = self.image_queue.get()
                         if True:
-                            user_script = [{"role": "user",
-                                            "content": "Limit reply to 100 words."}]
+                            user_script = [
+                                {"role": "user", "content": "Limit reply to 100 words."}
+                            ]
                         response_text = self.client.analyze_image_with_GPT(
                             self.base64_image, user_script
                         )
                         print(response_text)
-                        path = project_root_path / "artifacts/response_text/response_text.txt"
-                        with open(path, 'w', encoding='utf-8') as file:
+                        path = (
+                            project_root_path
+                            / "artifacts/response_text/response_text.txt"
+                        )
+                        with open(path, "w", encoding="utf-8") as file:
                             file.write(response_text)
                         self.response_queue.put(response_text)
             except Exception as e:
@@ -99,8 +104,8 @@ class Analytic_Process(Process):
 
 
 class Read_Texts(Process):
-    """This class is using elevenlabs model to read texts.
-    """
+    """This class is using elevenlabs model to read texts."""
+
     def __init__(self, queue, event_done):
         super(Read_Texts, self).__init__()
         self.queue = queue

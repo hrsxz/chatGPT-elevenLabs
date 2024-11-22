@@ -44,7 +44,8 @@ repos:
         entry: venv/Scripts/isort.exe
         language: system
         types: [python]
-        files: ^.*\.py$  # 只检查 .py 文件
+        # files: ^.*\.py$  # 只检查 .py 文件
+        files: ^src/.*\.py$  # 只检查 src 文件夹下的 .py 文件
 
       # black - Code formatter
       - id: black
@@ -52,7 +53,7 @@ repos:
         entry: venv/Scripts/black.exe
         language: system
         types: [python]
-        files: ^.*\.py$
+        files: ^src/.*\.py$  # 只检查 src 文件夹下的 .py 文件
 
       # flake8 - Code linting
       - id: flake8
@@ -60,7 +61,7 @@ repos:
         entry: venv/Scripts/flake8.exe
         language: system
         types: [python]
-        files: ^.*\.py$
+        files: ^src/.*\.py$  # 只检查 src 文件夹下的 .py 文件
 
       # pylint - Code quality checker
       - id: pylint
@@ -68,7 +69,7 @@ repos:
         entry: venv/Scripts/pylint.exe
         language: system
         types: [python]
-        files: ^.*\.py$
+        files: ^src/.*\.py$  # 只检查 src 文件夹下的 .py 文件
 
       # mypy - Static type checker
       - id: mypy
@@ -76,4 +77,4 @@ repos:
         entry: venv/Scripts/mypy.exe
         language: system
         types: [python]
-        files: ^.*\.py$
+        files: ^src/.*\.py$  # 只检查 src 文件夹下的 .py 文件

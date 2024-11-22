@@ -14,6 +14,6 @@ def config_logging(filename):
     # create a rotating file handler
     file_handler = RotatingFileHandler(filename, maxBytes=10240, backupCount=0)
     file_handler.setFormatter(logging.Formatter(log_format))
-    logging.getLogger('').addHandler(file_handler)
+    logging.getLogger("").addHandler(file_handler)
 
     return logging

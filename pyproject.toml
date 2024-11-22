@@ -13,13 +13,7 @@ default_section = "THIRDPARTY"  # Default section for third-party imports
 [tool.flake8] 
 max-line-length = 88  # Set the maximum line length, consistent with Black and isort 
 ignore = ["E203", "W503"]  # Ignore rules conflicting with Black's formatting 
-exclude = [ 
-    ".git", 
-    "__pycache__", 
-    "venv", 
-    "build", 
-    "dist" 
-]  # Exclude specific directories and files from linting 
+exclude = [".git", "__pycache__", "venv", "build", "dist"]  # Exclude specific directories and files from linting 
 
 [tool.mypy] 
 python_version = "3.9"  # Specify the target Python version 

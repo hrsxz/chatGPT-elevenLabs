@@ -1,5 +1,5 @@
-import time
 import os
+import time
 
 from capture_pics import Capture_Pics
 
